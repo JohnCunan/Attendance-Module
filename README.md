@@ -1,7 +1,9 @@
 # Attendance-Module
 Attendance Module for Payroll System (Works with Python 3.9)
 
-Download the trainer model and paste in the folder: https://drive.google.com/file/d/1BuyfPKKfdZb0K6TvVKhQeVNN4tLqBsd0/view?usp=sharing
+**Download the trainer model and paste in the project folder:** https://drive.google.com/file/d/1BuyfPKKfdZb0K6TvVKhQeVNN4tLqBsd0/view?usp=sharing
+
+**Download and extract venv folder and paste in the project folder:** https://drive.google.com/drive/folders/12AMUd_uKoof-fUBAsMSr0jWOLSEBuGHw?usp=sharing
 
 **Database**
 Microsoft SQL Server Express (15.0)
