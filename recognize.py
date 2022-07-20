@@ -6,7 +6,7 @@ import pyodbc
 
 conn = pyodbc.connect(
     "Driver={SQL Server Native Client 11.0};"
-    "Server=DESKTOP-N4JRA7K\SQLEXPRESS;"
+    "Server= ENTER YOUR MS SQL SERVER HERE ;"
     "Database=AttendanceModuleTest;"
     "Trusted_Connection=yes;"
 )
