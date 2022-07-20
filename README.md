@@ -3,6 +3,10 @@ Attendance Module for Payroll System (Works with Python 3.9)
 
 Download the trainer model and paste in the folder: https://drive.google.com/file/d/1BuyfPKKfdZb0K6TvVKhQeVNN4tLqBsd0/view?usp=sharing
 
+**Database**
+Microsoft SQL Server Express (15.0)
+Download database: https://drive.google.com/file/d/1ENCflBlrMD1MJ4Z1o_cHBKk27xhYQMHT/view?usp=sharing
+
 **Packages**
 
 1.) Pillow (9.2.0)
