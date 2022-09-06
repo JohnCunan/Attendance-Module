@@ -19,3 +19,6 @@ pip install opencv-contrib-python
 
 3.) Pyodbc (4.0.34)
 pip install pyodbc
+
+4.) Tkinter
+
